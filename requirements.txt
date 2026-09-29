@@ -1,0 +1,9 @@
+torch
+transformers>=4.45
+datasets>=3.0
+peft>=0.13
+accelerate>=1.0
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+rouge-score
+scikit-learn

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Explain renewable versus nonrenewable resources.",
+    "input": "",
+    "reference": "Renewable resources are replenished naturally on a human timescale, such as sunlight and wind. Nonrenewable resources such as coal and oil form so slowly that they can be depleted much faster than replaced.",
+    "prediction": "Renewable and non-renewable resources refer to the types of energy sources that can be replenished naturally over time without depleting their supply.\n\n**Renewable Resources:**\n- **Solar Energy:** This includes sunlight, which is abundant in most parts of the world. Solar panels convert this light into electricity using photovoltaic cells.\n- **Wind Energy:** Wind turbines harness the kinetic energy from moving air, converting it into electrical power.\n- **Biomass Energy:** This involves burning organic matter like wood, crop residues, or waste materials to produce heat or electricity.\n- **Tidal and Wave Energy:** These involve the use of ocean tides and waves for generating electricity.\n\n**Non-Renewable Resources:**\n- **Fossil Fuels (Coal, Oil, Natural Gas):** These are derived from ancient plants and animals that have been buried deep underground. They",
+    "rougeL": 0.14012738853503187,
+    "token_precision": 0.09900990099009901,
+    "token_recall": 0.3448275862068966,
+    "token_f1": 0.15384615384615388
+  },
+  {
+    "instruction": "Create a two-step grade 5 math problem with solution.",
+    "input": "",
+    "reference": "A class has 4 boxes with 12 pencils each and uses 15. How many remain? 4 × 12 = 48; 48 − 15 = 33 pencils.",
+    "prediction": "**Grade 5 Math Problem:**\n\n**Problem:** A classroom has 24 students and they need to be divided into groups for a project. Each group should have the same number of students. If each student is given 3 stickers, how many groups will there be? How many stickers in total will be distributed?\n\n**Solution:**\n\n1. **Step 1: Divide the Students**\n   - We start by dividing the total number of students (24) by the number of students per group (3).\n   - \\( 24 \\div 3 = 8 \\)\n   - So, there will be 8 groups.\n\n2. **Step 2: Calculate Total Stickers**\n   - Since each group gets 3 stickers, we multiply the number of groups by the number of stickers per group.\n   - \\( 8 \\times 3 = 24",
+    "rougeL": 0.07299270072992702,
+    "token_precision": 0.0945945945945946,
+    "token_recall": 0.30434782608695654,
+    "token_f1": 0.14432989690721648
+  },
+  {
+    "instruction": "Explain claim versus evidence.",
+    "input": "",
+    "reference": "A claim is a statement or conclusion. Evidence is information such as observations, measurements, or reliable sources used to support or challenge it.",
+    "prediction": "Claim and evidence are two important concepts in the field of law that play crucial roles in legal proceedings.\n\n1. Claim: A claim is an assertion or statement made by one party to another regarding a matter involving rights, obligations, or responsibilities. It can be either formal (written) or informal (spoken). Claims serve as the basis for litigation, where parties present their claims against each other or the government. For example, if you sue someone for a breach of contract, your claim would be based on specific facts about what was done wrong.\n\n2. Evidence: Evidence refers to any material thing that can be used to prove something. This could include physical objects like documents, photographs, witness statements, expert testimony, or even hypothetical scenarios. In court, evidence is presented to support or contradict the claims made during the trial. The goal is to gather enough evidence to help determine whether the defendant's actions were",
+    "rougeL": 0.1348314606741573,
+    "token_precision": 0.08547008547008547,
+    "token_recall": 0.5263157894736842,
+    "token_f1": 0.14705882352941177
+  },
+  {
+    "instruction": "Suggest a strategy to check understanding.",
+    "input": "",
+    "reference": "Use an exit ticket: students write one idea learned, one remaining question, and an example. Review responses to plan reteaching or extension.",
+    "prediction": "A great way to check your understanding of a topic is through quizzes or tests. These can be self-paced and can vary in difficulty depending on the subject matter. You could create your own quizzes by creating questions that relate directly to what you have learned. Alternatively, you could use online resources like Quizlet or Kahoot! which offer pre-made quizzes with various topics and levels of difficulty.\n\nAnother effective method is to ask for feedback from peers or teachers. This can help you identify areas where you may need more practice or clarification. It's also beneficial to reflect on your learning process and how well you're retaining information. Regularly reviewing material and seeking out new knowledge can reinforce your understanding over time.",
+    "rougeL": 0.05405405405405405,
+    "token_precision": 0.042105263157894736,
+    "token_recall": 0.2,
+    "token_f1": 0.06956521739130435
+  }
+]
